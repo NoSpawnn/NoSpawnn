@@ -27,8 +27,12 @@
   <img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
   <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" alt="fedora" title="fedora"/>
-  <br>
+  <br>  
   <br>
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nospawnn&show_icons=true&theme=gruvbox](https://github.com/anuraghazra/github-readme-stats))
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=nospawnn&theme=radical&hide_border=false)
+  <br>
+  ![](https://github-readme-stats.vercel.app/api?username=nospawnn&theme=radical&show_icons=true&hide_border=false&count_private=true)
+  <br>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nospawnn&theme=radical&show_icons=true&hide_border=false&layout=compact)
 </div>
