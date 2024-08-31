@@ -33,6 +33,4 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=nospawnn&theme=radical&hide_border=false)
   <br>
   ![](https://github-readme-stats.vercel.app/api?username=nospawnn&theme=radical&show_icons=true&hide_border=false&count_private=true)
-  <br>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nospawnn&theme=radical&show_icons=true&hide_border=false&layout=compact)
 </div>
