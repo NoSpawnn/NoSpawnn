@@ -16,16 +16,9 @@
   - ⚡ Fun fact: ...
   -->
   
-<div align="center">
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/>
-</div>
-  <br>  
-  <br>
-  
+  [![My Skills](https://skillicons.dev/icons?i=rust,cs,godot,linux,vscode)](https://skillicons.dev)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=nospawnn&theme=radical&hide_border=false)
-  <br>
+
   ![](https://github-readme-stats.vercel.app/api?username=nospawnn&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
   [My Gists](https://gist.github.com/NoSpawnn) (CodeWars/Leetcode/etc solutions, other random stuff)
