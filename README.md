@@ -16,7 +16,7 @@
   - ⚡ Fun fact: ...
   -->
   
-  [![My Skills](https://skillicons.dev/icons?i=rust,go,cs,godot,linux,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=rust,go,c,cs,linux,bash)](https://skillicons.dev)
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=nospawnn&theme=radical&hide_border=false)
 
